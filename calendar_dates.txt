@@ -1,4 +1,4 @@
-﻿service_id,date,exception
+﻿service_id,date,exception_type
 64553,20250224,2
 64553,20250330,2
 64553,20250501,2
